@@ -12,7 +12,7 @@ The live announcement module is a feature that allows the chatbot to post a mess
 **How it works:**
 
 1. When the stream goes live, the chatbot automatically posts a message in the chat.
-2. The default message is `${channel.display_name} is now live! Streaming {game}: {title}`.
+2. The default message is `${channel.display_name} è in live! Streaming {game}: {title}`.
 
 **Available arguments:**
 
